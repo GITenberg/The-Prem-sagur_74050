@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '48618'
     url: http://www.gutenberg.org/2009/agents/48618
     wikipedia: https://en.wikipedia.org/wiki/Lallu_Lal
+covers:
+- cover_type: archival
+  image_path: 74050-h/images/cover.jpg
 creator:
   author:
     agent_name: Caturbhujamisra, active 17th century
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57301
 description: English translation by W. Hollings of Lallu Lal's Hindi translation of
   the Prem sagur in Braj Bhasha.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74050#The-Prem-sagur
 gutenberg_issued: '2024-07-15'
 gutenberg_type: Text
 identifiers:
